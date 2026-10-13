@@ -1,105 +1,203 @@
-# Hi, I'm Ismail Anajar 👋
+<div align="center">
 
-### Full-Stack Developer | Frontend Specialist
+<img src="https://capsule-render.vercel.app/api?type=waving&color=234df1&height=170&section=header&text=Ismail.dev&fontSize=58&fontColor=FACC15&animation=fadeIn&fontAlignY=38" width="100%" />
 
-I'm a Full-Stack Developer based in **Casablanca, Morocco 🇲🇦**, with 9+ years of experience building high-performance, scalable, and maintainable web applications.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1200&color=111113&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Ismail.;FULL-STACK+DEVELOPER;React+%26+Next.js+Specialist;Node.js+%26+NestJS+Backend)](https://git.io/typing-svg)
 
-My main focus is **Frontend Engineering with React, Next.js, and TypeScript**, while also building backend services and APIs with Node.js and NestJS.
+**Frontend specialization in <mark>React and Next.js</mark> — I build <mark>high-performance</mark>, responsive and maintainable web apps. Backend with <mark>Node.js and NestJS</mark>.**
 
-I enjoy turning complex requirements into clean architectures, intuitive user experiences, and reliable production-ready applications.
+`9+ years` · `Casablanca, Morocco` · `End-to-end product ownership`
 
----
+[![Portfolio](https://img.shields.io/badge/Explore_My_Work-FACC15?style=for-the-badge&logoColor=111113&labelColor=111113&color=FACC15)](https://ismail-anajar.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-111113?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ismailanajar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-234df1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-anajar-7584b343a)
+[![Contact Me](https://img.shields.io/badge/CONTACT_ME-234df1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismailanajar52@gmail.com)
 
-### 🚀 About Me
-
-- 💻 9+ years of experience in web development.
-- ⚛️ Specialized in React, Next.js, and TypeScript.
-- 🔧 Experienced in backend development with Node.js and Hono.js.
-- 🗄️ Working with PostgreSQL, Prisma, and Redis.
-- 🏗️ Passionate about scalable architecture, performance, and clean code.
-- 🌍 Based in Casablanca, Morocco.
-- 📫 Reach me at **[ismailanajar52@gmail.com](mailto:ismailanajar52@gmail.com)**
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+### 🟨 `COMPANIES`
+## Where I have worked.
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+| 🏢 **Awnup** | 🎨 **Astrovia** | 🌍 **Freelance** |
+|:--|:--|:--|
+| Full-Stack Developer — Morocco · End-to-end product ownership | Frontend Developer — web apps & digital products | Full-Stack / Frontend Developer |
 
 ---
 
-### 🌟 Featured Projects
+### 🟨 `WHAT I DO`
+## I build fast, maintainable web applications.
 
-#### [Awnup — Service Marketplace](https://awnup.ma/fr)
-
-A production marketplace connecting customers with service providers.
-
-- Full-stack development and end-to-end product ownership.
-- Admin dashboard, business logic, and API integration.
-- Focus on maintainability, performance, and user experience.
-
-**Stack:** Next.js, React, TypeScript, Hono.js, Prisma, PostgreSQL, Tailwind CSS.
-
-#### [CMS Page Builder](https://page-builder-two.vercel.app/)
-
-A custom page-builder platform with a visual management dashboard and a public template engine.
-
-- Drag-and-drop page editing.
-- Real-time preview and customizable components.
-- Typed API and structured content management.
-
-**Stack:** Next.js, TypeScript, Hono.js, PostgreSQL, Prisma, Tailwind CSS.
+| | | |
+|:--|:--|:--|
+| **`FRONTEND SPECIALIZATION`** | **`BACKEND EXPERIENCE`** | **`FULL DEVELOPMENT LIFECYCLE`** |
+| Primary specialization is frontend, with strong expertise in **React and Next.js**. High-performance, responsive, maintainable apps. | Solid backend experience. I independently **build and integrate backend services with Node.js and NestJS**. | From **requirements & frontend architecture** to API integration, performance, testing and deployment. |
 
 ---
 
-### 🧠 Engineering Interests
+### 🟨 `EXPERIENCE`
+## Where I have worked.
 
-- Frontend architecture and design systems
-- Web performance and Core Web Vitals
-- Server-side rendering and modern rendering strategies
-- API design and full-stack TypeScript
-- Database modeling and application scalability
-- SEO, accessibility, and maintainable codebases
+<details open>
+<summary><b>Full-Stack Developer — Awnup</b> <i>Morocco | End-to-end product ownership</i></summary>
+<br>
+
+- Built the Awnup service marketplace end-to-end: frontend, backend, database/API layer, admin dashboard
+- Designed the application architecture and shipped product requirements to production
+- User-facing experiences + internal admin workflows, focused on performance & maintainability
+- Owned implementation independently, from development through deployment
+
+</details>
+
+<details>
+<summary><b>Frontend Developer — Astrovia</b> <i>Web applications and digital products</i></summary>
+<br>
+
+- Frontend apps across e-commerce, loyalty programs, marketing platforms, internal business apps
+- Turned docs & backend constraints into technical implementation plans
+- Performance, scalable architecture, code quality, responsive UX
+
+</details>
+
+<details>
+<summary><b>Full-Stack / Frontend Developer — Freelance</b></summary>
+<br>
+
+- Web projects for supermarkets, medical practices, pets, e-commerce, marketing
+- Requirements analysis → architecture → APIs & DB → testing → deployment → maintenance
+- Direct client work, adapted to budget & deadlines
+
+</details>
 
 ---
 
-### 📜 Certifications
+<div align="center">
 
-- [Claude Code in Action](https://verify.skilljar.com/c/f4zqfapu47c4)
-- [Claude 101](https://verify.skilljar.com/c/u36soxd4pjkc)
+### 🟨 `GET IN TOUCH`
+## Let's work together.
+**Casablanca, Morocco — working with teams and clients.**
 
----
+[![CONTACT ME →](https://img.shields.io/badge/CONTACT_ME_→-FACC15?style=for-the-badge&logoColor=111113&labelColor=111113&color=FACC15)](mailto:ismailanajar52@gmail.com?subject=Project%20inquiry%20for%20Ismail)
 
-### 🤝 Let's Connect
+`9+ YEARS EXPERIENCE`
 
-I'm always interested in connecting with developers, collaborating on interesting projects, and discussing web technologies.
-
-[![GitHub](https://img.shields.io/badge/GitHub-ismailanajar-181717?style=for-the-badge&logo=github)](https://github.com/ismailanajar)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismailanajar52@gmail.com)
+</div>
 
 ---
 
-*Building thoughtful web experiences, one project at a time.* 🚀
+### 🟨 `PROJECTS`
+## Selected projects.
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🛠️ **Awnup** `● LIVE`
+**`SERVICE MARKETPLACE`**
+
+<img src="https://ismail-anajar.vercel.app/assets/awnup-marketplace-map.png" width="100%" />
+
+Production marketplace connecting customers with service providers + admin tools. Full-stack ownership: frontend, backend, DB/API, business logic.
+
+`Next.js` `React` `TypeScript` `Hono.js` `Prisma` `PostgreSQL` `Tailwind CSS`
+
+➡️ **[Visit awnup →](https://awnup.ma/fr)** · `awnup.ma`
+
+</td>
+<td width="50%">
+
+#### 🧱 **CMS Page Builder** `● DEMO`
+**`PERSONAL PROJECT`**
+
+<img src="https://ismail-anajar.vercel.app/assets/pagebuilder-editor.png" width="100%" />
+
+Admin dashboard + public template engine via typed Hono.js API. Visual management, drag-and-drop, real-time preview, analytics.
+
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `Tailwind CSS`
+
+➡️ **[Website Builder →](https://page-builder-two.vercel.app/)** · `live demo`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🟨 `TECHNICAL SKILLS`
+## Technical skills.
+
+| **Frontend** | **Backend** | **Database** |
+|:--|:--|:--|
+| `HTML5` `CSS3` `TypeScript` `React` `Next.js` `TanStack Start` | `Node.js` `NestJS` `REST APIs` | `PostgreSQL` `Redis` |
+
+| **Architecture & Performance** | **Tools & DevOps** |
+|:--|:--|
+| `SSR` `SSG` `ISR` `CSR` `caching` `lazy loading` `Core Web Vitals` `SEO` `accessibility` `scalable architecture` | `Linux` `Git` `GitHub` `Docker` `CI/CD` |
+
+---
+
+### 🟨 `BACKGROUND`
+## Education, languages & certifications.
+
+| 🎓 **`EDUCATION`** | 🌐 **`LANGUAGES`** | 🏅 **`CERTIFICATIONS`** |
+|:--|:--|:--|
+| **Bachelor of Physics Science — Ibn Zohr University, Agadir** (2014 – 2017) | **Arabic:** Native<br>**English:** Conversational | ✅ [Claude Code in Action ↗](https://verify.skilljar.com/c/f4zqfapu47c4)<br>✅ [Claude 101 ↗](https://verify.skilljar.com/c/u36soxd4pjkc) |
+
+---
+
+### 🟨 `CERTIFICATES`
+## Courses & certifications.
+
+| ✅ **`Claude Code in Action`** | ✅ **`Claude 101`** | **`Local AI`** |
+|:--|:--|:--|
+| Anthropic · Skilljar · AI | Anthropic · Skilljar · AI | master.dev · AI |
+| [→ VERIFY CERTIFICATE](https://verify.skilljar.com/c/f4zqfapu47c4) | [→ VERIFY CERTIFICATE](https://verify.skilljar.com/c/u36soxd4pjkc) | [→ VIEW COURSE](https://master.dev/courses/local-ai/) |
+
+➡️ **[View all courses & certificates →](https://ismail-anajar.vercel.app/courses.html)**
+
+---
+
+### 🟨 `ABOUT`
+## Who is Ismail?
+
+Full-Stack Developer with 9+ years building high-performance, responsive, maintainable web apps. Frontend-first (**React & Next.js**), backend-capable (**Node.js & NestJS**) — comfortable across the full lifecycle.
+
+**Experience:** `Awnup — Full-Stack` `Astrovia — Frontend` `Freelance — Full-Stack / Frontend`
+
+**What I can do:**
+- ✔ Build fast, responsive frontends with React & Next.js
+- ✔ Build and integrate backends with Node.js & NestJS
+- ✔ Integrate AI features: LLMs, RAG, agents, local models
+- ✔ Own the full lifecycle — from requirements to deployment
+
+---
+
+### 🟨 `CONTACT`
+## Contact Ismail Anajar
+
+| | |
+|:--|
+| 📧 **ismailanajar52@gmail.com** → [send email](mailto:ismailanajar52@gmail.com) |
+| 💬 **+212 776 184 990** ↗ [WhatsApp](https://wa.me/212776184990) |
+| 💻 **github.com/ismailanajar** ↗ [GitHub](https://github.com/ismailanajar) |
+| 💼 **linkedin.com/in/ismail-anajar** ↗ [LinkedIn](https://www.linkedin.com/in/ismail-anajar-7584b343a) |
+
+---
+
+<div align="center">
+
+### 📊 Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=ismailanajar&show_icons=true&theme=transparent&title_color=234df1&icon_color=234df1&text_color=111113&border_color=111113)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailanajar&layout=compact&theme=transparent&title_color=234df1&text_color=111113&border_color=111113)
+
+**ISMAIL ANAJAR — FULL-STACK DEVELOPER · © 2026**
+
+`Navigate` · [Profile](https://ismail-anajar.vercel.app/#profile) · [Experience](https://ismail-anajar.vercel.app/#experience) · [Projects](https://ismail-anajar.vercel.app/#projects) · [Skills](https://ismail-anajar.vercel.app/#skills) · [Courses](https://ismail-anajar.vercel.app/courses.html)
+
+![views](https://komarev.com/ghpvc/?username=ismailanajar&color=234df1&style=flat-square&label=Profile+views)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=111113&height=90&section=footer" width="100%" />
+
+</div>
